@@ -15,6 +15,17 @@
 - Azure
 - PowerShell
 
+## 🏅 Microsoft Certifications
+
+### ☁️ Azure
+https://img.shields.io/badge/AZ--104-Azure%20Administrator-0078D4?style=for-the-badge&logo=microsoftazure](https://learn.microsoft.com/api/credentials/share/en-us/RobinPieterse-9551/4F570423D81CCE11?sharingId=A114F9E56E8CA8A9)
+https://img.shields.io/badge/AZ--305-Azure%20Solutions%20Architect-0078D4?style=for-the-badge&logo=microsoftazure](https://learn.microsoft.com/api/credentials/share/en-us/RobinPieterse-9551/A3D56334E3282D32?sharingId=A114F9E56E8CA8A9)
+
+### 💼 Microsoft 365
+https://img.shields.io/badge/MS--102-M365%20Administrator%20Expert-6264A7?style=for-the-badge&logo=microsoft](https://learn.microsoft.com/api/credentials/share/en-us/RobinPieterse-9551/CE0357A971ED88?sharingId=A114F9E56E8CA8A9)
+
+### 🔐 Security
+https://img.shields.io/badge/SC--200-Security%20Operations%20Analyst-68217A?style=for-the-badge&logo=microsoft](https://learn.microsoft.com/api/credentials/share/en-us/RobinPieterse-9551/6A4DFE63025B93B3?sharingId=A114F9E56E8CA8A9)
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
