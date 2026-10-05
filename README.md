@@ -15,7 +15,7 @@ Senior Solutions Architect building Microsoft 365 and Azure tooling — mostly P
 One filterable index of Microsoft 365, Entra, Azure and Graph changes, rebuilt daily from the official public feeds. Static site, no sign-in, no tenant data.
 
 <p>
-  <a href="https://robinpza.github.io/M365-Change-Radar">
+  <a href="https://m365updates.sidequests.tech">
     <img src="https://img.shields.io/badge/Live%20Site-robinpza.github.io-F97316?style=for-the-badge&logo=githubpages&logoColor=white" alt="Live site" />
   </a>
   <a href="https://github.com/RobinpZA/M365-Change-Radar">
@@ -28,7 +28,7 @@ One filterable index of Microsoft 365, Entra, Azure and Graph changes, rebuilt d
 An interactive star chart of the Microsoft 365 estate. Each service is a constellation, each feature a star, with plain-language summaries, licence tiers and Microsoft Learn links. Pick a licence plan to see what an upgrade would unlock.
 
 <p>
-  <a href="https://robinpza.github.io/constellate">
+  <a href="https://constellate.sidequests.tech">
     <img src="https://img.shields.io/badge/Live%20Site-robinpza.github.io-6366F1?style=for-the-badge&logo=githubpages&logoColor=white" alt="Live site" />
   </a>
   <a href="https://github.com/RobinpZA/constellate">
