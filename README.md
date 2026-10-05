@@ -4,32 +4,32 @@
 
 Senior Solutions Architect building Microsoft 365 and Azure tooling — mostly PowerShell 7 modules with browser portals bolted on, because I got tired of clicking through admin centres.
 
-- 🔭 Currently building **[M365 Change Radar](https://robinpza.github.io/M365-Change-Radar)** and **[Constellate](https://robinpza.github.io/constellate)**
+- 🔭 Currently building **[M365 Change Radar](https://m365updates.sidequests.tech)** and **[Constellate](https://constellate.sidequests.tech)**
 - 🧰 PowerShell 7 · Microsoft Graph · Azure · Bicep · vanilla JS
 - 🇿🇦 Based in South Africa
 
 ## 🚀 Featured
 
-### [M365 Change Radar](https://robinpza.github.io/M365-Change-Radar)
+### [M365 Change Radar](https://m365updates.sidequests.tech)
 
 One filterable index of Microsoft 365, Entra, Azure and Graph changes, rebuilt daily from the official public feeds. Static site, no sign-in, no tenant data.
 
 <p>
   <a href="https://m365updates.sidequests.tech">
-    <img src="https://img.shields.io/badge/Live%20Site-robinpza.github.io-F97316?style=for-the-badge&logo=githubpages&logoColor=white" alt="Live site" />
+    <img src="https://img.shields.io/badge/Live%20Site-m365updates.sidequests.tech-F97316?style=for-the-badge&logo=githubpages&logoColor=white" alt="Live site" />
   </a>
   <a href="https://github.com/RobinpZA/M365-Change-Radar">
     <img src="https://img.shields.io/badge/Source-M365--Change--Radar-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source" />
   </a>
 </p>
 
-### [Constellate](https://robinpza.github.io/constellate)
+### [Constellate](https://constellate.sidequests.tech)
 
 An interactive star chart of the Microsoft 365 estate. Each service is a constellation, each feature a star, with plain-language summaries, licence tiers and Microsoft Learn links. Pick a licence plan to see what an upgrade would unlock.
 
 <p>
   <a href="https://constellate.sidequests.tech">
-    <img src="https://img.shields.io/badge/Live%20Site-robinpza.github.io-6366F1?style=for-the-badge&logo=githubpages&logoColor=white" alt="Live site" />
+    <img src="https://img.shields.io/badge/Live%20Site-constellate.sidequests.tech-6366F1?style=for-the-badge&logo=githubpages&logoColor=white" alt="Live site" />
   </a>
   <a href="https://github.com/RobinpZA/constellate">
     <img src="https://img.shields.io/badge/Source-constellate-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source" />
