@@ -4,7 +4,7 @@
 
 Senior Solutions Architect building Microsoft 365 and Azure tooling — mostly PowerShell 7 modules with browser portals bolted on, because I got tired of clicking through admin centres.
 
-- 🔭 Currently building **[M365 Change Radar](https://m365updates.sidequests.tech)** and **[Constellate](https://constellate.sidequests.tech)**
+- 🔭 Currently building **[M365 Change Radar](https://m365updates.sidequests.tech)**, **[Constellate](https://constellate.sidequests.tech)** and **[CA Policy Atlas](https://atlas.sidequests.tech)**
 - 🧰 PowerShell 7 · Microsoft Graph · Azure · Bicep · vanilla JS
 - 🇿🇦 Based in South Africa
 
@@ -33,6 +33,19 @@ An interactive star chart of the Microsoft 365 estate. Each service is a constel
   </a>
   <a href="https://github.com/RobinpZA/constellate">
     <img src="https://img.shields.io/badge/Source-constellate-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source" />
+  </a>
+</p>
+
+### [CA Policy Atlas](https://atlas.sidequests.tech)
+
+Learn, compare and check Entra Conditional Access policies as flow graphs, side by side, with every difference marked. Ships with 94 baseline policies (Van Surksum, Maester, CIS, CISA SCuBA); load your own exports to measure against them. Runs entirely in the browser.
+
+<p>
+  <a href="https://atlas.sidequests.tech">
+    <img src="https://img.shields.io/badge/Live%20Site-atlas.sidequests.tech-0EA5E9?style=for-the-badge&logo=githubpages&logoColor=white" alt="Live site" />
+  </a>
+  <a href="https://github.com/RobinpZA/ca-policy-atlas">
+    <img src="https://img.shields.io/badge/Source-ca--policy--atlas-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source" />
   </a>
 </p>
 
